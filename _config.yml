@@ -1,6 +1,19 @@
-title: Minimal theme
+title: <p align="center"> Aisharya Ravichandran</p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/aisharya-ravichandran-b42b8b80/">LinkedIn</a> |
+  <a href="https://github.com/Aisharya16">GitHub</a>
+  
+  <br>   
+    I am working as Application analyst for Anthem Digital platform
+    Worked on supporting various technolies like APIGEE, REST and WeB services, docker, mongodb
+    Worked on various tools like Splunk, ServiceNow, Jira
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
