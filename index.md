@@ -21,7 +21,7 @@ This is just a collection of topics and algorithms that in my opinion are intere
 It contains several topics that are not so popular nowadays, but that can be very powerful. Usually, topics such as PDE methods, LÃ©vy processes, Fourier methods or Kalman filter are not very popular among practitioners, who prefers to work with more standard tools.
 The aim of these notebooks is to present these interesting topics, by showing their practical application through an interactive python implementation.
 
-<center><img src="images/financial_modeling.jpg"/></center>
+<center><img src="https://media.istockphoto.com/photos/finance-and-investment-concept-picture-id930458050?k=6&m=930458050&s=170667a&w=0&h=xHKANUD9SMIbagmnZsOCCF920Jy7qQAVjP5xmYsLWtA="/></center>
 
 ---
 ### LSTM Neural Network for Time Series Prediction
@@ -39,4 +39,4 @@ The following article sections will briefly touch on LSTM neuron cells, give a t
 
 It is slightly simplified implementation of Kim's Convolutional Neural Networks for Sentence Classification paper in Tensorflow.
 
-<center><img src="images/text_classification.png"/></center>
+<center><img src="https://miro.medium.com/max/966/0*O_hRMkov1Gcy4msS.png"/></center>
